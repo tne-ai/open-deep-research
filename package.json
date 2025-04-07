@@ -33,7 +33,7 @@
     "jspdf": "^2.5.2",
     "lucide-react": "^0.469.0",
     "markdown-it": "^14.1.0",
-    "next": "15.1.2",
+    "next": "15.2.4",
     "officeparser": "^5.1.1",
     "ollama": "^0.5.12",
     "openai": "^4.80.1",
